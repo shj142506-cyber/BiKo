@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 自适应图标背景（取自用户提供的图标底色） -->
+    <color name="ic_launcher_background">#F2F6F9</color>
+
+    <!-- 矢量图标填充色（浅色为默认） -->
+    <color name="text">#18191B</color>
+    <color name="t3">#949CA6</color>
+</resources>

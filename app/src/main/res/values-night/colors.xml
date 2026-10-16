@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 矢量图标填充色（深色模式） -->
+    <color name="text">#F0F0F2</color>
+    <color name="t3">#949CA6</color>
+</resources>

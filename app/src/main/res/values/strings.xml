@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">彼可BiKo</string>
+
+    <!-- 桌面图标长按快捷方式 -->
+    <string name="shortcut_search_short">搜索</string>
+    <string name="shortcut_search_long">搜索视频</string>
+    <string name="shortcut_watch_later_short">稍后再看</string>
+    <string name="shortcut_watch_later_long">打开稍后再看</string>
+    <string name="shortcut_favorite_short">收藏</string>
+    <string name="shortcut_favorite_long">我的收藏</string>
+    <string name="shortcut_history_short">历史</string>
+    <string name="shortcut_history_long">观看历史</string>
+</resources>
