@@ -15,9 +15,13 @@
 [![Release](https://img.shields.io/github/v/release/shj142506-cyber/BiKo?include_prereleases&label=Release&color=brightgreen)](https://github.com/shj142506-cyber/BiKo/releases)
 [![Stars](https://img.shields.io/github/stars/shj142506-cyber/BiKo?style=social)](https://github.com/shj142506-cyber/BiKo/stargazers)
 
-[下载最新版 APK](https://github.com/shj142506-cyber/BiKo/releases/latest) · [问题反馈](https://github.com/shj142506-cyber/BiKo/issues) · [查看源码](#目录结构)
+[下载最新版 APK](https://github.com/shj142506-cyber/BiKo/releases/latest) · [问题反馈](https://github.com/shj142506-cyber/BiKo/issues) · [查看源码](#目录结构) · [**English**](README_EN.md)
 
 </div>
+
+---
+
+**English**: BiKo is an unofficial, third-party **Bilibili** client for Android, written from scratch in **Kotlin + Jetpack Compose** (no WebView shell). It covers video playback (Media3 / ExoPlayer, DASH & HLS), a custom **danmaku** engine (standard, protobuf, and advanced BAS/Lua danmaku), live streaming, dynamic posts, direct messages, search, user space, favorites, history, and offline download. → [**Read the full English README**](README_EN.md)
 
 ---
 
@@ -154,7 +158,7 @@ A：不会。项目没有自建服务器，所有数据直连官方接口，登�
 
 ## 许可证
 
-暂未指定。如需开源使用，请先联系作者补充 `LICENSE`。
+本项目基于 **MIT License** 开源，详见 [LICENSE](LICENSE)。
 
 <div align="center">
 
