@@ -25,6 +25,14 @@
 
 ---
 
+## 演示
+
+<img src="screenshots/demo.gif" width="320" alt="BiKo 演示 —— 首页推荐、视频播放与弹幕、搜索" />
+
+一段录屏演示：首页推荐流、视频播放（含弹幕）、搜索。
+
+---
+
 ## 项目介绍
 
 **彼可 BiKo** 是一个完全使用 **Kotlin + Jetpack Compose** 编写的第三方哔哩哔哩客户端。

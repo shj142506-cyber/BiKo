@@ -21,6 +21,14 @@ Clean · Fast · Modern · Pure native Compose
 
 ---
 
+## Demo
+
+<img src="screenshots/demo.gif" width="320" alt="BiKo demo — home feed, video playback with danmaku, and search" />
+
+A short screen recording: the home feed, video playback with danmaku, and search.
+
+---
+
 ## What is BiKo?
 
 **BiKo** is a third-party **Bilibili** client written entirely in **Kotlin + Jetpack Compose**.
