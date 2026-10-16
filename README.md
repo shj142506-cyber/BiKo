@@ -33,6 +33,14 @@
 
 ---
 
+## 效果预览
+
+| 首页 · 推荐 | 首页 · 番剧 | 首页 · 影视 | 首页 · 直播 | 搜索 |
+| --- | --- | --- | --- | --- |
+| <img src="screenshots/home_recommend.png" width="160" alt="首页 · 推荐" /> | <img src="screenshots/home_bangumi.png" width="160" alt="首页 · 番剧" /> | <img src="screenshots/home_movie.png" width="160" alt="首页 · 影视" /> | <img src="screenshots/home_live.png" width="160" alt="首页 · 直播" /> | <img src="screenshots/search.png" width="160" alt="搜索" /> |
+
+---
+
 ## 功能亮点
 
 | 模块 | 能力 |
